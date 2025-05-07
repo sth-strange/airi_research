@@ -1,7 +1,5 @@
 
-# Проект AI Safety Environment
-
-Подробную информацию о проекте можно найти на [нашем сайте](https://sth-strange.github.io/RL-for-Empowerment/)
+# Проект AIRI Research
 
 ## Структура репозитория
 
